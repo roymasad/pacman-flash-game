@@ -5,7 +5,7 @@ Code : Roy Massaad
 
 Date : Circa 2008
 
-License : GPL 3
+License : GPL 2
 
 **Description:**
 
