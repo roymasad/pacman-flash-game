@@ -7,6 +7,8 @@ Date : Circa 2008
 
 License : MIT
 
+![](screenshot.png)
+
 **Description:**
 
 This is a Pacman game clone i wrote in Adobe Flash CS6
